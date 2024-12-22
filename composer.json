@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "phpsturm\\": "vendor/phpsturm",
+      "app\\": "app"
+    }
+  },
+  "require": {
+  }
+}
